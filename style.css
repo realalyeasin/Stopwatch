@@ -1,0 +1,31 @@
+body{
+ background-color:rgb(144,228,144);
+ border:8px solid yellow;
+ padding:20px;
+ margin:40px;
+}
+*{
+	font-family:monospace;
+	letter-spacing:3px;
+	text-align:center;
+	font-size:1.3em;
+	
+}
+button{
+	color:white;
+	background-color:black;
+	border:2px solid white;
+}
+button:hover{
+	     box-shadow:0 8px 16px 0 rgba(0,0,0,0.6);
+           }
+
+	
+h2{
+	border-bottom:5px solid white;
+	border-top:5px solid white;
+}
+
+
+
+			   
